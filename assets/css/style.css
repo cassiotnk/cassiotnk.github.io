@@ -1052,6 +1052,7 @@ footer.singup{
 }
 .single_contact_phone{
 	margin-top:30px;
+    text-align: right;
 }
 .single_contact_phone h3{
 	font-size:14px;
@@ -1063,8 +1064,6 @@ footer.singup{
 }
 .contact_socail_bookmark{
 	margin-top:75px;
-	margin-left:-15px;
-	width: 80%;
 }
 .contact_socail_bookmark a{
 	margin-left:15px;
@@ -1120,7 +1119,7 @@ a.s_f_5:hover,
 a.s_f_6:hover,
 a.s_f_7:hover,
 a.s_f_8:hover{
-    background:#6FB048;
+    background:#29B6F6;
     color:#fff;
 }
 
